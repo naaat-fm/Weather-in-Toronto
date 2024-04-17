@@ -1,0 +1,21 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  font-size: 15pt;
+  text-align: center;
+  background-image: url(../img/background.jpg); /* img credits: https://www.wallpaperflare.com/toronto-canada-cn-tower-turning-red-cityscape-digital-art-wallpaper-yarpt/download*/
+  background-size: cover;
+}
+h1 {
+  font-weight: bold;
+  margin-top: 50px;
+}
+p {
+  text-transform: capitalize;
+}
+#weather-info {
+  margin-top: 50px;
+}
+#weather-icon {
+  width: 200px;
+  height: auto; /* aspect ratio */
+}
